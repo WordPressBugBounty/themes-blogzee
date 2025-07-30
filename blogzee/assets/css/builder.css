@@ -98,6 +98,10 @@ body:not(.archive) .site-header {
         display: none;
     }
 
+    body .bb-bldr-row.mobile-canvas.open {
+        display: block;
+    }
+
     .bb-bldr-row.mobile-canvas.open {
         display: block;
         position: absolute;
@@ -412,6 +416,10 @@ body:not(.archive) .site-header {
         footer .bb-bldr-row .smartphone-alignment--right .blogzee-scroll-btn,
         footer .bb-bldr-row .smartphone-alignment--right .site-info {
             text-align: right;
+        }
+
+        body.admin-bar .site-header.header-sticky--enabled {
+            top: 0;
         }
     }
 

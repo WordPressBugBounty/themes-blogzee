@@ -4,7 +4,7 @@ Tags: blog, entertainment, one-column, two-columns, grid-layout, left-sidebar, r
 Requires at least: 4.5
 Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,6 +73,9 @@ URL: https://dimsemenov.com/plugins/magnific-popup/
 License: The MIT License
 
 == Changelog ==
+= 1.0.5 - July 30th, 2025 =
+	* Added - header builder css tweaks
+
 = 1.0.4 - July 16th, 2025 =
 	* Added - demos added
 
